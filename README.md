@@ -283,6 +283,8 @@ Identifier les goulets d'étranglement réseau.
 - Une application consomme toute la bande passante
 
 
+# 🚀 Générer des flows de test
+
 ## 🔒 Sécurité et Éthique
 
 ### Responsabilités de l'utilisateur
@@ -324,8 +326,6 @@ L'auteur (Ayi NEDJIMI Consultants) et les contributeurs de cet outil déclinent 
 **L'utilisateur assume l'entière responsabilité légale et éthique de l'utilisation de ce logiciel.**
 
 
-# 🚀 Générer des flows de test
-
 ## Support
 
 Pour toute question ou problème :
@@ -350,6 +350,14 @@ Cet outil est fourni "TEL QUEL", sans garantie d'aucune sorte.
 
 **Ayi NEDJIMI Consultants - 2025**
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 ---
 
