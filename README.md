@@ -248,6 +248,8 @@ Les logs contiennent :
 - **IPv6** : Non supporté (IPv4 uniquement)
 
 
+# 🚀 Générer des flows de test
+
 ## 🚀 Cas d'usage
 
 ### 1. Identifier les top talkers
@@ -282,8 +284,6 @@ Identifier les goulets d'étranglement réseau.
 - Un serveur génère un trafic anormal (boucle, bug)
 - Une application consomme toute la bande passante
 
-
-# 🚀 Générer des flows de test
 
 ## 🔒 Sécurité et Éthique
 
@@ -350,6 +350,14 @@ Cet outil est fourni "TEL QUEL", sans garantie d'aucune sorte.
 
 **Ayi NEDJIMI Consultants - 2025**
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
