@@ -236,6 +236,8 @@ Les logs contiennent :
 - Opérations d'export
 
 
+# 🚀 Générer des flows de test
+
 ## Limitations
 
 - **Mémoire** : Stockage en RAM uniquement (pas de persistance)
@@ -247,8 +249,6 @@ Les logs contiennent :
 - **Performances** : Adapté pour monitoring court terme, pas pour analyse longue durée
 - **IPv6** : Non supporté (IPv4 uniquement)
 
-
-# 🚀 Générer des flows de test
 
 ## 🚀 Cas d'usage
 
@@ -350,6 +350,14 @@ Cet outil est fourni "TEL QUEL", sans garantie d'aucune sorte.
 
 **Ayi NEDJIMI Consultants - 2025**
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
