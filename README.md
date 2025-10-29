@@ -220,6 +220,8 @@ Bien que NetFlow ne capture PAS le contenu des paquets, ces métadonnées peuven
 **Toujours obtenir le consentement des utilisateurs avant de monitorer le trafic réseau.**
 
 
+# 🚀 Générer des flows de test
+
 ## Logs
 
 Les logs sont enregistrés dans :
@@ -235,8 +237,6 @@ Les logs contiennent :
 - Détection de paquets NetFlow v9
 - Opérations d'export
 
-
-# 🚀 Générer des flows de test
 
 ## Limitations
 
@@ -350,6 +350,14 @@ Cet outil est fourni "TEL QUEL", sans garantie d'aucune sorte.
 
 **Ayi NEDJIMI Consultants - 2025**
 
+
+- --
+
+<div align="center">
+
+**⭐ Si ce projet vous plaît, n'oubliez pas de lui donner une étoile ! ⭐**
+
+</div>
 
 - --
 
